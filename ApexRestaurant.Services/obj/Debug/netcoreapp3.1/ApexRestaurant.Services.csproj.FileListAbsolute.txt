@@ -1,0 +1,4 @@
+D:\lab3\apexrestaurant\ApexRestaurant.Services\obj\Debug\netcoreapp3.1\ApexRestaurant.Services.csprojAssemblyReference.cache
+D:\lab3\apexrestaurant\ApexRestaurant.Services\obj\Debug\netcoreapp3.1\ApexRestaurant.Services.AssemblyInfoInputs.cache
+D:\lab3\apexrestaurant\ApexRestaurant.Services\obj\Debug\netcoreapp3.1\ApexRestaurant.Services.AssemblyInfo.cs
+D:\lab3\apexrestaurant\ApexRestaurant.Services\obj\Debug\netcoreapp3.1\ApexRestaurant.Services.csproj.CoreCompileInputs.cache
